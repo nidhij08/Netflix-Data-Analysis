@@ -20,3 +20,7 @@ This is a basic data analysis project using Python, Pandas, and Matplotlib.
 ## 📁 File
 - `netflix_analysis.py`: Main code
 
+## 📊 Sample Output Chart
+
+![Bar Chart - Movies vs TV Shows](output_chart.png)
+
